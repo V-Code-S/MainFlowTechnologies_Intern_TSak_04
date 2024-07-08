@@ -1,4 +1,4 @@
-# MainFlowTechnologies_Intern_TSak_04
+# MainFlowTechnologies_Intern_Task_04
 
 # Simple Calculator
 
@@ -38,6 +38,4 @@ Run the `calculator.py` script:
 ```bash
 python calculator.py
 
-
-`Virupakshi`
 
