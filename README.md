@@ -20,7 +20,7 @@ This is a simple calculator application built using Python and the `tkinter` lib
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simple-calculator.git
+    git clone https://github.com/V-Code-S/MainFlowTechnologies_Intern_TSak_04.git
     cd simple-calculator
     ```
 
@@ -37,4 +37,7 @@ Run the `calculator.py` script:
 
 ```bash
 python calculator.py
+
+
+`Virupakshi`
 
