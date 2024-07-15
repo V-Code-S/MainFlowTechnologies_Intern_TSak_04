@@ -33,9 +33,9 @@ This is a simple calculator application built using Python and the `tkinter` lib
 
 ## Usage
 
-Run the `calculator.py` script:
+Run the `SimpleCalculator.py` script:
 
 ```bash
-python calculator.py
+python SimpleCalculator.py
 
 
