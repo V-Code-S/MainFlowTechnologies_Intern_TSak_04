@@ -29,7 +29,7 @@ This is a simple calculator application built using Python and the `tkinter` lib
     pip install Pillow
     ```
 
-3. Ensure you have the necessary button images (`0.png`, `1.png`, `2.png`, `3.png`, `4.png`, `5.png`, `6.png`, `7.png`, `8.png`, `9.png`, `plus.png`, `minus.png`, `multiply.png`, `divide.png`, `dot.png`, `equals.png`, `clear.png`, `delete.png`) in the same directory as your script.
+3. Include necessary buttons. 
 
 ## Usage
 
