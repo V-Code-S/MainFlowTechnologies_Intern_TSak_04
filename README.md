@@ -12,7 +12,7 @@ This is a simple calculator application built using Python and the `tkinter` lib
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - `tkinter` (usually included with Python)
 - `Pillow` library for image handling
 
